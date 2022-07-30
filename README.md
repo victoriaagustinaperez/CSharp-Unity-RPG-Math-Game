@@ -2,8 +2,8 @@
 ## Table of Contents
 1. [Overview](#Overview)
 2. [Features](#Features)
-3. [Unity WEBGL Link](#Unity WebGL Link)
-4. [GIF Preview](#GIF Preview)
+3. [Unity WEBGL Link](#UnityWebGLLink)
+4. [GIF Preview](#GIFPreview)
 
 ### Overview
 
