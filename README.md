@@ -13,7 +13,7 @@ An RPG Math game, "Monster Math Island," created in XR Bootcamp's C# Coding with
 
 Health bar, onDeath events, Damage Timer, Position Transform with Coroutines, Leveling System, Experience Bar, Level Up UI, Difficulty Scaling
 
-### Try it out yourself (Unity WebGL Link):
+### Try it out! (Unity WebGL Link):
 
 https://play.unity.com/mg/other/webgl-builds-227558
 
